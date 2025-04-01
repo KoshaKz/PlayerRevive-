@@ -1,4 +1,4 @@
-# PlayerRevive
+# PlayerRevive-
 
 ## Setup
 https://github.com/CreativeMD/ForgeMods
